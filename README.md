@@ -34,7 +34,7 @@
 
 시간이 많지 않아 빠른 속도로 해드릴 수는 없겠지만, 여러분에게 도움이 될 수 있도록 최대한 노력해 볼 생각입니다.
 
-Github에서 Pull Request하는 방법을 잘 모르신다면, [Github Pull Request 사용하기](http://www.slideshare.net/jungseobshin/github-pull-request) 슬라이드를 참고하시기 바랍니다.
+Github에서 Pull Request하는 방법을 잘 모르신다면, [Github Pull Request 사용하  슬라이드를 참고하시기 바랍니다.
 
 ## How To Contribute
 
